@@ -148,6 +148,7 @@ $$f^* = rac{b \cdot p - q}{b} 	imes f_{kelly} 	imes coherence$$
 [![BlueLotus V3 Dashboard](https://img.shields.io/badge/🌸_BlueLotus_V3-LIVE_Dashboard-4fc3f7?style=for-the-badge&labelColor=0a0a1a)](https://sohweekian.github.io/bluelotus)
 [![Chief Strategist](https://img.shields.io/badge/📊_Chief_Strategist-Intelligence_Report-533483?style=for-the-badge&labelColor=0a0a1a)](https://sohweekian.github.io/bluelotus/chief-strategist.html)
 [![Development Journey](https://img.shields.io/badge/📖_The_Journey-V1_to_V3_Story-e94560?style=for-the-badge&labelColor=0a0a1a)](JOURNEY.md)
+[![Research Papers](https://img.shields.io/badge/📚_Research_Papers-Theses_%26_Architecture-4fc3f7?style=for-the-badge&labelColor=0a0a1a)](https://github.com/sohweekian/bluelotus-research)
 
 </div>
 
