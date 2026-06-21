@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=200&section=header&text=SOH%20WEE%20KIAN&fontSize=52&fontColor=4fc3f7&animation=fadeIn&fontAlignY=38&desc=CIO%20%7C%20BlueLotus%20V3%20Intelligence%20System&descAlignY=60&descColor=aad4f5&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=200&section=header&text=CIO%20%7C%20BlueLotus%20V3%20Intelligence%20System&fontSize=36&fontColor=4fc3f7&animation=fadeIn&fontAlignY=38&desc=Self%20Learning%20Institutional%20Cognitive%20Digital%20Organization&descAlignY=60&descColor=aad4f5&descSize=16" width="100%"/>
 
 </div>
 
