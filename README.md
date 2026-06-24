@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=800&color=4FC3F7&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=90&lines=🌸+Zone+A+Deterministic+Clerk+%7C+Production+2026;509+Tests+%C2%B7+Governance+Gates+%C2%B7+NITE-PEI+%C2%B7+SLICDO;No+LLM+Council+in+Pipeline+%C2%B7+Research+pip+Package+Live)](https://sohweekian.github.io/bluelotus)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=800&color=4FC3F7&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=90&lines=🌸+Zone+A+Deterministic+Clerk+%7C+Production+2026;509+Tests+%C2%B7+BGTM+Nash+QRE+%C2%B7+NITE-PEI+%C2%B7+SLICDO;No+LLM+Council+in+Pipeline+%C2%B7+Research+pip+Package+Live)](https://sohweekian.github.io/bluelotus)
 
 </div>
 
@@ -25,6 +25,7 @@
 | **Production clerk** | 🟢 Zone A — deterministic, no LLM agents |
 | **Governance gate** | 🟢 Fail-closed before publish |
 | **NITE-PEI** | 🟢 Bayesian thesis + CKRI + Kelly |
+| **BGTM-V1** | 🟢 Nash · QRE · Geo-LR bridge → NITE-PEI |
 | **SLICDO** | 🟢 v2.0 institutional learning spine |
 | **Tests** | 🟢 509 pytest · regression audit 10/10 |
 | **Legacy agent council** | 🔒 Quarantined — manual only |
@@ -56,6 +57,7 @@ PIPELINE  ·  Every 39 Minutes
 ├── Governance gate + regression tests
 ├── Report generation (TXT · XLSX · DOCX)
 ├── Deterministic Chief Clerk  ← Zone A (no LLM)
+├── BGTM-V1  (Nash · QRE · Geo-LR → NITE-PEI)
 ├── NITE-PEI  (Bayesian thesis · CKRI)
 ├── SLICDO learning cycle
 └── Dashboard publish (optional · separate from research pip package)
