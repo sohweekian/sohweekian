@@ -63,20 +63,20 @@ PIPELINE  ·  Every 39 Minutes
 
 ---
 
-### 📦 Repositories
+### 📦 Repositories (public contribution — engine frozen v3.0.0)
 
 | Repo | What |
 |------|------|
-| [**bluelotus**](https://github.com/sohweekian/bluelotus) | Live GitHub Pages dashboard |
-| [**bluelotus-engine**](https://github.com/sohweekian/bluelotus-engine) | `pip install` — sanitized research engine (no publish · no telegram) |
-| [**bluelotus-engine-docs**](https://github.com/sohweekian/bluelotus-engine-docs) | Architecture story & deterministic era narrative |
-| [**bluelotus-research**](https://github.com/sohweekian/bluelotus-research) | Theses, doctrines, technical reports |
+| [**bluelotus-engine-docs**](https://github.com/sohweekian/bluelotus-engine-docs) | **Start here** — download, what it is, who it's for |
+| [**bluelotus-engine**](https://github.com/sohweekian/bluelotus-engine) | Downloadable research engine v3.0.0 |
+| [**bluelotus-research**](https://github.com/sohweekian/bluelotus-research) | Theses, doctrines, [PUBLIC_RELEASE_NOTICE](https://github.com/sohweekian/bluelotus-research/blob/main/PUBLIC_RELEASE_NOTICE.md) |
+| [**bluelotus**](https://github.com/sohweekian/bluelotus) | Live dashboard |
 
 ```bash
-pip install bluelotus-engine
-bluelotus init-workspace
-bluelotus pipeline --once --dry-run
+pip install https://github.com/sohweekian/bluelotus-engine/releases/download/v3.0.0/bluelotus_engine-3.0.0-py3-none-any.whl
 ```
+
+**Private production stack & work orders remain proprietary.** Thesis uploads may continue.
 
 ---
 
