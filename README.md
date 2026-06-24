@@ -1,9 +1,8 @@
-<!-- BlueLotus V3 — GitHub Profile README -->
-<!-- Theme: Dark Intelligence · Cyan Accents · Monospace Precision -->
+<!-- BlueLotus V3 — GitHub Profile README · Deterministic Era · June 2026 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=200&section=header&text=CIO%20%7C%20BlueLotus%20V3%20Intelligence%20System&fontSize=36&fontColor=4fc3f7&animation=fadeIn&fontAlignY=38&desc=Self%20Learning%20Institutional%20Cognitive%20Digital%20Organization&descAlignY=60&descColor=aad4f5&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=200&section=header&text=CIO%20%7C%20BlueLotus%20V3&fontSize=36&fontColor=4fc3f7&animation=fadeIn&fontAlignY=38&desc=Deterministic%20Clerk%20%C2%B7%20Governed%20Intelligence%20%C2%B7%20CIO_ONLY_MANUAL&descAlignY=60&descColor=aad4f5&descSize=16" width="100%"/>
 
 </div>
 
@@ -11,167 +10,99 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=4FC3F7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=🌸+BlueLotus+V3+Intelligence+Pipeline+%7C+LIVE+V1.7;Autonomous+65-Step+Financial+Intelligence+%7C+Every+39+Minutes;Bayesian+Thesis+Engine+%7C+NITE-PEI+%7C+Qwen3%3A4B+Local+AI)](https://sohweekian.github.io/bluelotus)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=800&color=4FC3F7&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=90&lines=🌸+Zone+A+Deterministic+Clerk+%7C+Production+2026;509+Tests+%C2%B7+Governance+Gates+%C2%B7+NITE-PEI+%C2%B7+SLICDO;No+LLM+Council+in+Pipeline+%C2%B7+Research+pip+Package+Live)](https://sohweekian.github.io/bluelotus)
 
 </div>
 
 ---
 
-## 🌸 BlueLotus V3 — Autonomous Investment Intelligence
+## 🌸 BlueLotus V3 — Deterministic Investment Intelligence
 
-> *A fully deterministic, self-publishing, 65-step financial intelligence pipeline running locally on RTX 5060 Ti — no Bloomberg terminal, no black box, no external dependency.*
+> *A governed family-office intelligence OS: ingest → gate → report → **deterministic clerk** → Bayesian thesis updates. The CIO decides. The system never routes orders.*
 
-<table>
-<tr>
-<td width="50%">
+| Layer | Status |
+|-------|--------|
+| **Production clerk** | 🟢 Zone A — deterministic, no LLM agents |
+| **Governance gate** | 🟢 Fail-closed before publish |
+| **NITE-PEI** | 🟢 Bayesian thesis + CKRI + Kelly |
+| **SLICDO** | 🟢 v2.0 institutional learning spine |
+| **Tests** | 🟢 509 pytest · regression audit 10/10 |
+| **Legacy agent council** | 🔒 Quarantined — manual only |
 
-### 🧠 System Architecture
+---
+
+### Why we removed agents from production
+
+In June 2026 we completed a **field evaluation** of LLM agents in live capital intelligence work. Verdict: disqualifying for production clerk duty.
+
+| Failure mode | Consequence |
+|--------------|-------------|
+| **Temporal blindness** | Stale and fresh news weighted equally — corrupts forward probabilities |
+| **Partial read + hallucination** | Skimmed 4 MB packages, invented missing sections with confidence |
+| **Non-reproducibility** | Same inputs did not yield same truth — breaks audit doctrine |
+
+**Response:** Production path now runs `orchestration.run_deterministic_clerk_cycle` — pure Python contradiction mapping from governance, operators, and portfolio math. The 9-agent Qwen council is **quarantined** (`run_v3_grand_cycle.bat`, not in `v3_pipeline.yaml`).
+
+📖 Full write-up: [The Clerk Who Never Lies](https://github.com/sohweekian/bluelotus-engine-docs) · [DETERMINISTIC_TRANSITION.md](https://github.com/sohweekian/bluelotus-research/blob/main/DETERMINISTIC_TRANSITION.md)
+
+---
+
+### 🧠 Architecture (June 2026)
 
 ```
-PIPELINE START  ·  Every 39 Minutes
+PIPELINE  ·  Every 39 Minutes
 │
-├── LAYER 1  ─  Data Ingestion
-│   └── 16 fetch steps · Signals · News · Macro
-│
-├── LAYER 2  ─  Analytical Engines
-│   └── VaR · Beta · Vol · Brier Forecasts
-│
-├── LAYER 3  ─  Governance Gate
-│   └── Approval · Geopolitical Overlay
-│
-├── LAYER 4  ─  Report Generation
-│   └── TXT · XLSX · DOCX · SQL
-│
-├── LAYER 5  ─  NITE-PEI Engine  🆕
-│   └── Bayesian Thesis · CKRI · Kelly
-│
-└── LAYER 6  ─  Publish
-    └── GitHub Pages · Live Dashboard
+├── Data ingestion + dataset export
+├── Governance gate + regression tests
+├── Report generation (TXT · XLSX · DOCX)
+├── Deterministic Chief Clerk  ← Zone A (no LLM)
+├── NITE-PEI  (Bayesian thesis · CKRI)
+├── SLICDO learning cycle
+└── Dashboard publish (optional · separate from research pip package)
 ```
 
-</td>
-<td width="50%">
-
-### 📊 System Status
-
-| Component | Status |
-|-----------|--------|
-| Pipeline | 🟢 LIVE — 65 Steps |
-| AI Engine | 🟢 Qwen3:4B on GPU |
-| NITE-PEI | 🟢 WATCH — CKRI 0.343 |
-| Theses Active | 🟢 5 / 5 |
-| Tests Passing | 🟢 315 / 315 |
-| GitHub Pages | 🟢 Live V1.7 |
-
-### 🎯 Active Theses
-
-| Thesis | Probability |
-|--------|-------------|
-| HAWKISH_BOJ | 95.0% |
-| HAWKISH_WARSH | 94.3% |
-| STICKY_INFLATION | 75.5% |
-| PETRO_RECYCLED_DOLLAR | 81.1% |
-| TRUMP_UNCERTAINTY | 61.6% |
-
-</td>
-</tr>
-</table>
-
 ---
 
-## ⚙️ Tech Stack
+### 📦 Repositories
 
-<div align="center">
+| Repo | What |
+|------|------|
+| [**bluelotus**](https://github.com/sohweekian/bluelotus) | Live GitHub Pages dashboard |
+| [**bluelotus-engine**](https://github.com/sohweekian/bluelotus-engine) | `pip install` — sanitized research engine (no publish · no telegram) |
+| [**bluelotus-engine-docs**](https://github.com/sohweekian/bluelotus-engine-docs) | Architecture story & deterministic era narrative |
+| [**bluelotus-research**](https://github.com/sohweekian/bluelotus-research) | Theses, doctrines, technical reports |
 
-![Python](https://img.shields.io/badge/Python-3.13-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES2026-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-Dashboard-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-Database-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-![NVIDIA](https://img.shields.io/badge/RTX_5060_Ti-16GB_VRAM-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-Qwen3:4B_Local-black?style=for-the-badge&logo=ollama&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-Live_Dashboard-181717?style=for-the-badge&logo=github&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-Pipeline_Config-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
-
-</div>
-
----
-
-## 🔬 NITE-PEI — Bayesian Thesis Engine
-
-> **N**ews **I**mpact & **T**hesis **E**ngine for **P**rospective **E**vent **I**ntelligence
-
-```
-News Headline → Event Classifier → Likelihood Ratio Lookup
-                                          ↓
-Thesis Prior  →  Bayesian Updater  →  P_posterior
-                 (Corrected LR)           ↓
-                                   Kill Condition FSM
-                                          ↓
-                              CKRI  ·  Kelly Sizing  ·  CIO Advisory
+```bash
+pip install bluelotus-engine
+bluelotus init-workspace
+bluelotus pipeline --once --dry-run
 ```
 
-**Equations powering the engine:**
-
-$$P_{posterior} = rac{P_{prior} 	imes LR_{adj}}{P_{prior} 	imes LR_{adj} + (1 - P_{prior})}$$
-
-$$LR_{adj} = 1 + (LR_{raw} - 1) 	imes (1 - noise\_discount)$$
-
-$$CKRI = rac{\sum w_i \cdot P_{kill,i} + \lambda \cdot n_{corr}}{\sum w_i}$$
-
-$$f^* = rac{b \cdot p - q}{b} 	imes f_{kelly} 	imes coherence$$
-
 ---
 
-## 📈 GitHub Stats
+### 📐 Doctrines (unchanged)
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sohweekian&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&title_color=4fc3f7&icon_color=4fc3f7&text_color=aad4f5&bg_color=0a0a1a&border_color=1a3a5c"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sohweekian&theme=tokyonight&background=0a0a1a&ring=4fc3f7&fire=e94560&currStreakLabel=4fc3f7&sideLabels=aad4f5&dates=aad4f5&border=1a3a5c"/>
-
-</div>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sohweekian&theme=tokyo-night&bg_color=0a0a1a&color=4fc3f7&line=4fc3f7&point=e94560&area=true&hide_border=true)](https://sohweekian.github.io/bluelotus)
-
-</div>
-
----
-
-## 🚀 Live System
-
-<div align="center">
-
-[![BlueLotus V3 Dashboard](https://img.shields.io/badge/🌸_BlueLotus_V3-LIVE_Dashboard-4fc3f7?style=for-the-badge&labelColor=0a0a1a)](https://sohweekian.github.io/bluelotus)
-[![Chief Strategist](https://img.shields.io/badge/📊_Chief_Strategist-Intelligence_Report-533483?style=for-the-badge&labelColor=0a0a1a)](https://sohweekian.github.io/bluelotus/chief-strategist.html)
-[![Development Journey](https://img.shields.io/badge/📖_The_Journey-V1_to_V3_Story-e94560?style=for-the-badge&labelColor=0a0a1a)](JOURNEY.md)
-[![Research Papers](https://img.shields.io/badge/📚_Research_Papers-Theses_%26_Architecture-4fc3f7?style=for-the-badge&labelColor=0a0a1a)](https://github.com/sohweekian/bluelotus-research)
-
-</div>
-
----
-
-## 📐 System Doctrines
-
-| ID | Doctrine |
-|----|---------|
+| ID | Rule |
+|----|------|
 | BLV3-DOCTRINE-001 | No LLM order generation |
 | BLV3-DOCTRINE-002 | Manual execution required |
 | BLV3-DOCTRINE-003 | No broker route write access |
 | BLV3-DOCTRINE-004 | Append-only audit trail |
 | BLV3-DOCTRINE-005 | Governance gate before publish |
 | BLV3-DOCTRINE-006 | Observation lock on architecture |
-| BLV3-DOCTRINE-007 | Dual action gate: equity vs. hedge |
+| BLV3-DOCTRINE-007 | Dual action gate: equity vs hedge |
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=100&section=footer&text=CIO_ONLY_MANUAL%20%7C%20ORDER_ROUTING%3A%20DISABLED%20%7C%20ADVISORY%20ONLY&fontSize=12&fontColor=4fc3f7&animation=fadeIn" width="100%"/>
-
-*BlueLotus V3 · Built with precision · Powered by local AI · 🌸*
+[![Dashboard](https://img.shields.io/badge/🌸_Dashboard-LIVE-4fc3f7?style=for-the-badge&labelColor=0a0a1a)](https://sohweekian.github.io/bluelotus)
+[![Chief Clerk](https://img.shields.io/badge/📋_Chief_Clerk-Deterministic-533483?style=for-the-badge&labelColor=0a0a1a)](https://sohweekian.github.io/bluelotus/chief-strategist.html)
+[![pip package](https://img.shields.io/badge/pip-bluelotus--engine-e94560?style=for-the-badge&labelColor=0a0a1a)](https://github.com/sohweekian/bluelotus-engine)
+[![Journey](https://img.shields.io/badge/📖_Journey-V1→V3-aad4f5?style=for-the-badge&labelColor=0a0a1a)](JOURNEY.md)
 
 </div>
+
+---
+
+*BlueLotus V3 · The pipeline calculates. The clerk maps contradictions. The CIO decides. 🌸*
